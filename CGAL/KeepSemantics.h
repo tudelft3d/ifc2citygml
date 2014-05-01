@@ -1,0 +1,8 @@
+#include "stdafx.h"
+#include "FileIO.h"
+#include "CommonGeomFunctions.h"
+#include "CommonWriters.h"
+#include "WriteCityGML.h"
+#include "ManifoldFix.h"
+#include "SnapSemantics.h"
+#include "MergeCoplanarFacets.h"
