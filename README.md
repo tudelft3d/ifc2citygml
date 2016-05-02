@@ -4,6 +4,9 @@ Automatic conversion of IFC models v2x3 to CityGML LOD3 (but LOD2 and LOD4 are p
 
 Description of what can be done with this code is in the MSc thesis of Sjors Donkers entitled [*Automatic generation of CityGML LoD3 building models from IFC models*](http://repository.tudelft.nl/view/ir/uuid%3A31380219-f8e8-4c66-a2dc-548c3680bb8d/).
 
+It is also published as:
+
+Sjors Donkers, Hugo Ledoux, Junqiao Zhao and Jantien Stoter (in press). *Automatic conversion of IFC datasets to geometrically and semantically correct CityGML LOD3 buildings*. Transactions in GIS. [pdf](https://3d.bk.tudelft.nl/hledoux/pdfs/16_tgis_ifcitygml.pdf) [doi](http://dx.doi.org/10.1111/tgis.12162)
 
 ## Code
 
