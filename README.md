@@ -1,3 +1,10 @@
+
+| :exclamation:  We do not maintain this code anymore!                    |
+|-------------------------------------------------------------------------|
+| Improved code is available at: https://github.com/tudelft3d/esri_geobim |
+
+
+
 # ifc2citygml
 
 Automatic conversion of IFC models v2x3 to CityGML LOD3 (but LOD2 and LOD4 are possible too).
